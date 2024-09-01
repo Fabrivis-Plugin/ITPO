@@ -1,6 +1,5 @@
 # Refresh.py
 import socket
-import customtkinter
 
 def connectionLabel(connection, label):
     if connection:
