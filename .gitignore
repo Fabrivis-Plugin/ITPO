@@ -1,3 +1,4 @@
 *.yml
 *.ini
 /.vscode
+/__pycache__
